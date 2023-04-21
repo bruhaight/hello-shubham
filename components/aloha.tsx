@@ -45,7 +45,7 @@ export default function Aloha() {
 				</Link>
 				<Link
 					className="inline-flex items-center justify-center p-4 font-bold text-gray-200 rounded-md shadow-sm gap-x-2 bg-white/10 hover:bg-white/20"
-					href="/about"
+					href="/resume.pdf"
 				>
 					<DocumentTextIcon className="w-5 h-5" aria-hidden="true" />
 					My Resume
