@@ -38,7 +38,7 @@ export default function Aloha() {
 			<div className="grid grid-cols-1 gap-2 my-8 sm:grid-cols-2">
 				<Link
 					className="inline-flex items-center justify-center p-4 font-bold text-center text-white bg-pink-700 rounded-md gap-x-2 whitespace-nowrap bg-gradient-to-r from-purple-800 to-pink-600 hover:bg-pink-600 hover:from-purple-700 hover:to-pink-500"
-					href="#newsletter-signup"
+					href="/projects"
 				>
 					<Cog6ToothIcon className="w-5 h-5" aria-hidden="true" />
 					See Projects
